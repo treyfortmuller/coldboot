@@ -1,1 +1,5 @@
+# Rust build output
 /target
+
+# Nix build output
+result
